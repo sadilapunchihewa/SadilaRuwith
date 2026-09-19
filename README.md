@@ -1,67 +1,231 @@
-<!-- ========================= -->
-<!--       HERO SECTION        -->
-<!-- ========================= -->
+<!-- ===================== HEADER ===================== -->
 
-<div align="center">
+<p align="center">
+  <img src="ChatGPT%20Image%20Sep%2018,%202026,%2002_26_42%20PM.png"
+       width="190"
+       alt="Sadila Punchihewa" />
+</p>
 
-# Hi 👋, I'm Sadila Punchihewa
+<h1 align="center">Hi 👋, I'm Sadila Punchihewa</h1>
 
-### Software Engineering Undergraduate @ SLIIT 🎓
+<h3 align="center">
+  Software Engineering Undergraduate @ SLIIT 🎓 | Full-Stack Developer 💻
+</h3>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%E2%80%A2+.NET+%E2%80%A2+C%23+%E2%80%A2+Java;Building+REST+APIs+%26+Modern+Web+Apps;Turning+Ideas+Into+Real-World+Software+%F0%9F%9A%80"
-  alt="Typing Animation"
-/>
+<p align="center">
+  Passionate about building modern web applications, REST APIs,
+  and real-world software solutions 🚀
+</p>
 
-<br>
+<p align="center">
+  <a href="https://sadila-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-Passionate about building **modern web applications, scalable APIs and real-world software solutions.**
+  <a href="https://linkedin.com/in/sadila-punchihewa-4a112920b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<br><br>
-
-<a href="https://sadila-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/sadila-punchihewa-4a112920b">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:sadilapunchihewa03@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sadilapunchihewa&label=PROFILE+VIEWS&style=flat-square" />
-
-</div>
+  <a href="mailto:sadilapunchihewa03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const sadila = {
-  name: "Sadila Punchihewa",
-  education: "Software Engineering @ SLIIT",
-  role: "Full-Stack Developer",
+- 🎓 Software Engineering Undergraduate at **SLIIT**
+- 💻 Interested in **Full-Stack Development & DevOps**
+- 🌱 Currently learning **.NET, React, Software Architecture & Cloud Technologies**
+- ⚙️ Building applications using **REST APIs, JWT Authentication & Databases**
+- 🚀 Passionate about creating **real-world software solutions**
+- 🎯 Working towards becoming a **Software Engineer**
+- 🌐 Explore my work at my [Portfolio](https://sadila-portfolio.vercel.app/)
 
-  interests: [
-    "Full-Stack Development",
-    "Software Engineering",
-    "DevOps",
-    "Cloud Technologies"
-  ],
+---
 
-  currentlyLearning: [
-    "Software Architecture",
-    ".NET",
-    "React",
-    "Cloud & DevOps"
-  ],
+## 🛠️ Tech Stack
 
-  building: "Real-world software solutions 🚀",
+### 👨‍💻 Programming Languages
 
-  goal: "Grow as a Software Engineer and build impactful products"
-};
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 LankaParts
+
+A vehicle spare-parts marketplace designed for the Sri Lankan market.
+
+**Features:**
+
+- 👤 Customer & Seller accounts
+- 🏪 Seller registration and approval
+- 🔐 JWT-based authentication
+- 🛠️ Role-based authorization
+- 📦 Product management
+- 🖥️ Admin dashboard
+- 🛒 Vehicle spare-parts marketplace
+
+**Tech Stack:**
+
+`React` • `ASP.NET Core` • `C#` • `PostgreSQL` • `JWT` • `REST API`
+
+---
+
+### 🍞 Wijayanandana Hotel & Bakery
+
+A modern web application developed for a hotel and bakery business.
+
+**Features:**
+
+- 🥖 Bakery product browsing
+- 🍛 Lunch menu
+- 📱 Responsive interface
+- 💬 WhatsApp ordering
+- 🛠️ Admin functionality
+
+**Tech Stack:**
+
+`React` • `Node.js` • `Express` • `MongoDB`
+
+---
+
+### 🚙 Vehicle Rental Management System
+
+A web-based vehicle rental platform designed to manage vehicle bookings
+and rental operations.
+
+**Features:**
+
+- 🚘 Vehicle booking
+- 👨‍✈️ Driver selection
+- 📅 Rental management
+- 💰 Cost calculation
+- 🧾 Rental history
+- ❌ Booking cancellation
+
+**Tech Stack:**
+
+`Java` • `Spring Boot` • `JSP` • `SQL`
+
+---
+
+### 🌊 Intelligent Disaster Guidance System
+
+An AI-powered disaster guidance platform designed to assist people
+during floods and landslides.
+
+**Features:**
+
+- 🤖 AI-powered disaster assistance
+- 🌧️ Context-aware guidance
+- 💬 Natural language questions
+- 📱 Offline survival guides
+- 🌐 Multilingual support
+- 📢 Disaster information
+
+**Technologies:**
+
+`Gemini API` • `AI` • `Web Technologies` • `REST API`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=sadilapunchihewa&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadilapunchihewa&layout=compact&theme=tokyonight&hide_border=true"
+  />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=sadilapunchihewa&theme=tokyonight&hide_border=true"
+  />
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sadilapunchihewa&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/sadila-punchihewa-4a112920b">
+    <img src="https://img.shields.io/badge/LinkedIn-Sadila%20Punchihewa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://sadila-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:sadilapunchihewa03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sadilapunchihewa03-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Code • Learn • Build • Improve 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
