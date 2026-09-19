@@ -1,79 +1,67 @@
 <!-- ========================= -->
-<!--        HERO BANNER        -->
+<!--       HERO SECTION        -->
 <!-- ========================= -->
 
-<p align="center">
-  <img src="banner.png" width="100%" alt="Sadila Punchihewa Banner"/>
-</p>
+<div align="center">
 
-<!-- ========================= -->
-<!--      TYPING ANIMATION     -->
-<!-- ========================= -->
+# Hi 👋, I'm Sadila Punchihewa
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;.NET+%7C+React+%7C+REST+APIs;Building+Real-World+Projects+%F0%9F%9A%80"
-    alt="Typing SVG"
-  />
-</p>
+### Software Engineering Undergraduate @ SLIIT 🎓
 
-<!-- ========================= -->
-<!--       PROFILE VIEWS       -->
-<!-- ========================= -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%E2%80%A2+.NET+%E2%80%A2+C%23+%E2%80%A2+Java;Building+REST+APIs+%26+Modern+Web+Apps;Turning+Ideas+Into+Real-World+Software+%F0%9F%9A%80"
+  alt="Typing Animation"
+/>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=sadilapunchihewa&label=PROFILE+VIEWS&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+<br>
 
-<!-- ========================= -->
-<!--       SOCIAL BUTTONS      -->
-<!-- ========================= -->
+Passionate about building **modern web applications, scalable APIs and real-world software solutions.**
 
-<p align="center">
+<br><br>
 
-  <a href="https://github.com/sadilapunchihewa">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://sadila-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sadila-punchihewa-4a112920b">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sadilapunchihewa03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://linkedin.com/in/sadila-punchihewa-4a112920b">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br><br>
 
-  <a href="https://sadila-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=sadilapunchihewa&label=PROFILE+VIEWS&style=flat-square" />
 
-  <a href="mailto:sadilapunchihewa03@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const sadila = {
-    name: "Sadila Punchihewa",
-    education: "Software Engineering @ SLIIT",
-    role: "Full-Stack Developer",
+  name: "Sadila Punchihewa",
+  education: "Software Engineering @ SLIIT",
+  role: "Full-Stack Developer",
 
-    technologies: {
-        frontend: ["React", "JavaScript", "HTML", "CSS", "Tailwind"],
-        backend: [".NET", "Spring Boot", "Node.js", "Express"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        languages: ["C#", "Java", "JavaScript"]
-    },
+  interests: [
+    "Full-Stack Development",
+    "Software Engineering",
+    "DevOps",
+    "Cloud Technologies"
+  ],
 
-    currentlyLearning: [
-        "Software Architecture",
-        "Cloud Technologies",
-        "DevOps"
-    ],
+  currentlyLearning: [
+    "Software Architecture",
+    ".NET",
+    "React",
+    "Cloud & DevOps"
+  ],
 
-    goal: "Build software that solves real-world problems 🚀"
+  building: "Real-world software solutions 🚀",
+
+  goal: "Grow as a Software Engineer and build impactful products"
 };
