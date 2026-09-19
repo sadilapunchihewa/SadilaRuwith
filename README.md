@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE PHOTO -->
-<img src="./profile.png" width="170" alt="Sadila Punchihewa" />
+<img src="ChatGPT%20Image%20Sep%2018,%202026,%2002_26_42%20PM.png" width="170" alt="Sadila Punchihewa" />
 
 <br/>
 
